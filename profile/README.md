@@ -1,12 +1,52 @@
-# 🎓 HANA - 하나뿐인 유학생활을 위한 플랫폼
+---
 
-- 🎓 학사 및 학과 정보 통합 검색
-- 🛂 비자 가이드 요약 제공
-- 💬 AI 챗봇 기반 질의응답
-- 🌍 다국어 지원 (한국어, 영어, 중국어, 일본어)
+## 📌 프로젝트 개요
 
-👉 [공식 소개 페이지 보기](https://HANA-by-teamname.github.io)
-👉 [서비스 데모 영상](https://youtu.be/uGVYhXbuHk0)
+**HANA**는 외국인 유학생을 위한 통합 플랫폼으로,  
+AI 챗봇 기반으로 학사 정보, 학과 정보, 비자 안내, 생활 정보 등을 다국어로 제공합니다.
+
+> 유학생들이 한국 생활에서 겪는 정보 파편화 문제를 해결하고,  
+> 원활한 학업 및 생활 정착을 도와주는 것이 목표입니다.
+
+- 🎯 대상: 한국 유학 중이거나 유학 준비 중인 외국인 유학생
+- 🚀 개발 기간: 2025년 4월 ~ 6월
+
+---
+
+## 👥 팀 멤버 소개
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/yousrchive">
+        <img src="https://github.com/yousrchive.png" width="100" style="border-radius: 50%"/><br/>
+        <strong>이유정</strong>
+      </a><br/>
+      프론트엔드 리드
+    </td>
+  </tr>
+<td align="center">
+      <a href="https://github.com/harry-nb">
+        <img src="https://github.com/harry-nb.png" width="100" style="border-radius: 50%"/><br/>
+        <strong>김도현</strong>
+      </a><br/>
+      PM
+    </td>
+    <td align="center">
+      <a href="https://github.com/dmkang1225">
+        <img src="https://github.com/dmkang1225.png" width="100" style="border-radius: 50%"/><br/>
+        <strong>강동민</strong>
+      </a><br/>
+      백엔드 개발
+    </td>
+    <td align="center">
+      <a href="https://github.com/EuiInSeong">
+        <img src="https://github.com/EuiInSeong.png" width="100" style="border-radius: 50%"/><br/>
+        <strong>성의인</strong>
+      </a><br/>
+      AI
+    </td>
+</table>
 
 ## 🎥 서비스 데모 영상
 
