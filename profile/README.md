@@ -47,6 +47,40 @@ AI 챗봇 기반으로 학사 정보, 학과 정보, 비자 안내, 생활 정�
   </tr>
 </table>
 
+---
+
+## 🧭 서비스 구성 안내
+
+HANA는 프론트엔드와 백엔드가 분리된 구조로 구성되어 있으며, 각 레포지토리에 구현 상세 및 실행 방법이 정리되어 있습니다.
+
+| 구분 | 레포지토리 | 주요 기술 | 설명 |
+|------|-------------|-----------|------|
+| 🌐 소개 사이트 | [`hana-by-teamname.github.io`](https://hana-by-teamname.github.io) | HTML / Markdown | HANA 프로젝트 개요를 소개하는 GitHub Pages 기반 사이트 |
+| 💻 프론트엔드 | [`frontend-hana`](https://github.com/HANA-by-teamname/frontend-hana) | Next.js 14, React, Tailwind CSS | 유학생이 직접 사용하는 웹 화면 (홈, 챗봇, 시간표 등) |
+| ⚙️ 백엔드 | [`backend-hana`](https://github.com/HANA-by-teamname/backend-hana) | Node.js, Express, MongoDB, Python | 사용자 관리, 게시물 처리, 챗봇 API 등 서버 기능 구현 |
+
+---
+
+## 🚀 실행 흐름 요약
+
+1. **프론트엔드**는 `Next.js` 기반 App Router 구조로 페이지를 구성하고, 로그인/챗봇/검색 등 UI를 제공합니다.
+2. **백엔드**는 `Express.js + MongoDB` 기반 API 서버로, AI 챗봇(Python + Ollama + Pinecone)까지 통합되어 있습니다.
+3. **배포 예정**:  
+   - 프론트엔드: Vercel  
+   - 백엔드: AWS EC2  
+   - 데이터베이스: MongoDB Atlas  
+   - LLM & 벡터 DB: Ollama, Pinecone
+
+---
+
+## 🔗 빠른 이동 링크
+
+- 👉 [프론트엔드 실행 가이드 보기](https://github.com/HANA-by-teamname/frontend-hana#-실행-가이드)
+- 👉 [백엔드 실행 가이드 보기](https://github.com/HANA-by-teamname/backend-hana#-설치-및-실행-방법)
+- 👉 [Postman API 문서 보기](https://github.com/HANA-by-teamname/backend-hana#-api-문서)
+
+---
+
 ## 🎥 서비스 데모 영상
 
 <p align="center">
