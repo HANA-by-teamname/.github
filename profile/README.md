@@ -55,7 +55,6 @@ HANA는 프론트엔드와 백엔드가 분리된 구조로 구성되어 있으�
 
 | 구분 | 레포지토리 | 주요 기술 | 설명 |
 |------|-------------|-----------|------|
-| 🌐 소개 사이트 | [`hana-by-teamname.github.io`](https://hana-by-teamname.github.io) | HTML / Markdown | HANA 프로젝트 개요를 소개하는 GitHub Pages 기반 사이트 |
 | 💻 프론트엔드 | [`frontend-hana`](https://github.com/HANA-by-teamname/frontend-hana) | Next.js 14, React, Tailwind CSS | 유학생이 직접 사용하는 웹 화면 (홈, 챗봇, 시간표 등) |
 | ⚙️ 백엔드 | [`backend-hana`](https://github.com/HANA-by-teamname/backend-hana) | Node.js, Express, MongoDB, Python | 사용자 관리, 게시물 처리, 챗봇 API 등 서버 기능 구현 |
 
