@@ -64,7 +64,7 @@ HANA는 프론트엔드와 백엔드가 분리된 구조로 구성되어 있으�
 
 1. **프론트엔드**는 `Next.js` 기반 App Router 구조로 페이지를 구성하고, 로그인/챗봇/검색 등 UI를 제공합니다.
 2. **백엔드**는 `Express.js + MongoDB` 기반 API 서버로, AI 챗봇(Python + Ollama + Pinecone)까지 통합되어 있습니다.
-3. **배포 예정**:  
+3. **배포 환경**:  
    - 프론트엔드: Vercel  
    - 백엔드: AWS EC2  
    - 데이터베이스: MongoDB Atlas  
