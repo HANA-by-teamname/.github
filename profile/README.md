@@ -24,8 +24,7 @@ AI 챗봇 기반으로 학사 정보, 학과 정보, 비자 안내, 생활 정�
       </a><br/>
       프론트엔드 리드
     </td>
-  </tr>
-<td align="center">
+    <td align="center">
       <a href="https://github.com/harry-nb">
         <img src="https://github.com/harry-nb.png" width="100" style="border-radius: 50%"/><br/>
         <strong>김도현</strong>
@@ -46,6 +45,7 @@ AI 챗봇 기반으로 학사 정보, 학과 정보, 비자 안내, 생활 정�
       </a><br/>
       AI
     </td>
+  </tr>
 </table>
 
 ## 🎥 서비스 데모 영상
