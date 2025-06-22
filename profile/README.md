@@ -36,14 +36,14 @@ AI 챗봇 기반으로 학사 정보, 학과 정보, 비자 안내, 생활 정�
         <img src="https://github.com/dmkang1225.png" width="100" style="border-radius: 50%"/><br/>
         <strong>강동민</strong>
       </a><br/>
-      백엔드 개발
+      백엔드 리드
     </td>
     <td align="center">
       <a href="https://github.com/EuiInSeong">
         <img src="https://github.com/EuiInSeong.png" width="100" style="border-radius: 50%"/><br/>
         <strong>성의인</strong>
       </a><br/>
-      AI
+      AI 리드
     </td>
   </tr>
 </table>
