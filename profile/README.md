@@ -19,28 +19,28 @@ AI 챗봇 기반으로 학사 정보, 학과 정보, 비자 안내, 생활 정�
     <td align="center">
       <a href="https://github.com/yousrchive">
         <img src="https://github.com/yousrchive.png" width="100" style="border-radius: 50%"/><br/>
-        <strong>이유정</strong>
+        <strong>yousrchive(이유정)</strong>
       </a><br/>
       프론트엔드 리드
     </td>
     <td align="center">
       <a href="https://github.com/harry-nb">
         <img src="https://github.com/harry-nb.png" width="100" style="border-radius: 50%"/><br/>
-        <strong>김도현</strong>
+        <strong>harry-nb(김도현)</strong>
       </a><br/>
       PM
     </td>
     <td align="center">
       <a href="https://github.com/dmkang1225">
         <img src="https://github.com/dmkang1225.png" width="100" style="border-radius: 50%"/><br/>
-        <strong>강동민</strong>
+        <strong>dmkang1225(강동민)</strong>
       </a><br/>
       백엔드 리드
     </td>
     <td align="center">
       <a href="https://github.com/EuiInSeong">
         <img src="https://github.com/EuiInSeong.png" width="100" style="border-radius: 50%"/><br/>
-        <strong>성의인</strong>
+        <strong>EuiInSeong(성의인)</strong>
       </a><br/>
       AI 리드
     </td>
